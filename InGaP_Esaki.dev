@@ -18,33 +18,33 @@
             <A>0</A>
             <B>0</B>
             <refractive_index wavelength_unit="nm">
-                <waveLength n="1.9" k="1.991426">350</waveLength>
-                <waveLength n="1.9" k="2.145409">400</waveLength>
-                <waveLength n="1.9" k="1.971930">420</waveLength>
-                <waveLength n="1.9" k="1.088938">440</waveLength>
-                <waveLength n="1.9" k="0.695507">460</waveLength>
-                <waveLength n="1.9" k="0.515662">480</waveLength>
-                <waveLength n="1.9" k="0.425739">500</waveLength>
-                <waveLength n="1.9" k="0.358353">520</waveLength>
-                <waveLength n="1.9" k="0.320570">540</waveLength>
-                <waveLength n="1.9" k="0.285651">560</waveLength>
-                <waveLength n="1.9" k="0.251083">580</waveLength>
-                <waveLength n="1.9" k="0.227273">600</waveLength>
-                <waveLength n="1.9" k="0.211167">620</waveLength>
-                <waveLength n="1.9" k="0.187421">640</waveLength>
-                <waveLength n="1.9" k="0.173320">660</waveLength>
-                <waveLength n="1.9" k="0.157468">680</waveLength>
-                <waveLength n="1.9" k="0.152630">700</waveLength>
-                <waveLength n="1.9" k="0.118029">720</waveLength>
-                <waveLength n="1.9" k="0.105408">740</waveLength>
-                <waveLength n="1.9" k="0.097371">760</waveLength>
-                <waveLength n="1.9" k="0.088761">780</waveLength>
-                <waveLength n="1.9" k="0.084670">800</waveLength>
-                <waveLength n="1.9" k="0.083525">820</waveLength>
-                <waveLength n="1.9" k="0.081551">840</waveLength>
-                <waveLength n="1.9" k="0.001649">860</waveLength>
-                <waveLength n="1.9" k="0.001688">880</waveLength>
-                <waveLength n="1.9" k="0.000007">900</waveLength>
+                <waveLength n="2.1" k="2.191426">350</waveLength>
+                <waveLength n="2.1" k="2.145409">400</waveLength>
+                <waveLength n="2.1" k="2.171930">420</waveLength>
+                <waveLength n="2.1" k="1.088938">440</waveLength>
+                <waveLength n="2.1" k="0.695507">460</waveLength>
+                <waveLength n="2.1" k="0.515662">480</waveLength>
+                <waveLength n="2.1" k="0.425739">500</waveLength>
+                <waveLength n="2.1" k="0.358353">520</waveLength>
+                <waveLength n="2.1" k="0.320570">540</waveLength>
+                <waveLength n="2.1" k="0.285651">560</waveLength>
+                <waveLength n="2.1" k="0.251083">580</waveLength>
+                <waveLength n="2.1" k="0.227273">600</waveLength>
+                <waveLength n="2.1" k="0.211167">620</waveLength>
+                <waveLength n="2.1" k="0.187421">640</waveLength>
+                <waveLength n="2.1" k="0.173320">660</waveLength>
+                <waveLength n="2.1" k="0.157468">680</waveLength>
+                <waveLength n="2.1" k="0.152630">700</waveLength>
+                <waveLength n="2.1" k="0.118029">720</waveLength>
+                <waveLength n="2.1" k="0.105408">740</waveLength>
+                <waveLength n="2.1" k="0.097371">760</waveLength>
+                <waveLength n="2.1" k="0.088761">780</waveLength>
+                <waveLength n="2.1" k="0.084670">800</waveLength>
+                <waveLength n="2.1" k="0.083525">820</waveLength>
+                <waveLength n="2.1" k="0.081551">840</waveLength>
+                <waveLength n="2.1" k="0.001649">860</waveLength>
+                <waveLength n="2.1" k="0.001688">880</waveLength>
+                <waveLength n="2.1" k="0.000007">900</waveLength>
             </refractive_index>
         </Optical>
         <Edge>1</Edge>
@@ -78,33 +78,33 @@
             <A>0</A>
             <B>0</B>
             <refractive_index wavelength_unit="nm">
-                <waveLength n="1.9" k="1.991426">350</waveLength>
-                <waveLength n="1.9" k="2.145409">400</waveLength>
-                <waveLength n="1.9" k="1.971930">420</waveLength>
-                <waveLength n="1.9" k="1.088938">440</waveLength>
-                <waveLength n="1.9" k="0.695507">460</waveLength>
-                <waveLength n="1.9" k="0.515662">480</waveLength>
-                <waveLength n="1.9" k="0.425739">500</waveLength>
-                <waveLength n="1.9" k="0.358353">520</waveLength>
-                <waveLength n="1.9" k="0.320570">540</waveLength>
-                <waveLength n="1.9" k="0.285651">560</waveLength>
-                <waveLength n="1.9" k="0.251083">580</waveLength>
-                <waveLength n="1.9" k="0.227273">600</waveLength>
-                <waveLength n="1.9" k="0.211167">620</waveLength>
-                <waveLength n="1.9" k="0.187421">640</waveLength>
-                <waveLength n="1.9" k="0.173320">660</waveLength>
-                <waveLength n="1.9" k="0.157468">680</waveLength>
-                <waveLength n="1.9" k="0.152630">700</waveLength>
-                <waveLength n="1.9" k="0.118029">720</waveLength>
-                <waveLength n="1.9" k="0.105408">740</waveLength>
-                <waveLength n="1.9" k="0.097371">760</waveLength>
-                <waveLength n="1.9" k="0.088761">780</waveLength>
-                <waveLength n="1.9" k="0.084670">800</waveLength>
-                <waveLength n="1.9" k="0.083525">820</waveLength>
-                <waveLength n="1.9" k="0.081551">840</waveLength>
-                <waveLength n="1.9" k="0.001649">860</waveLength>
-                <waveLength n="1.9" k="0.001688">880</waveLength>
-                <waveLength n="1.9" k="0.000007">900</waveLength>
+                <waveLength n="2.1" k="2.191426">350</waveLength>
+                <waveLength n="2.1" k="2.145409">400</waveLength>
+                <waveLength n="2.1" k="2.171930">420</waveLength>
+                <waveLength n="2.1" k="1.088938">440</waveLength>
+                <waveLength n="2.1" k="0.695507">460</waveLength>
+                <waveLength n="2.1" k="0.515662">480</waveLength>
+                <waveLength n="2.1" k="0.425739">500</waveLength>
+                <waveLength n="2.1" k="0.358353">520</waveLength>
+                <waveLength n="2.1" k="0.320570">540</waveLength>
+                <waveLength n="2.1" k="0.285651">560</waveLength>
+                <waveLength n="2.1" k="0.251083">580</waveLength>
+                <waveLength n="2.1" k="0.227273">600</waveLength>
+                <waveLength n="2.1" k="0.211167">620</waveLength>
+                <waveLength n="2.1" k="0.187421">640</waveLength>
+                <waveLength n="2.1" k="0.173320">660</waveLength>
+                <waveLength n="2.1" k="0.157468">680</waveLength>
+                <waveLength n="2.1" k="0.152630">700</waveLength>
+                <waveLength n="2.1" k="0.118029">720</waveLength>
+                <waveLength n="2.1" k="0.105408">740</waveLength>
+                <waveLength n="2.1" k="0.097371">760</waveLength>
+                <waveLength n="2.1" k="0.088761">780</waveLength>
+                <waveLength n="2.1" k="0.084670">800</waveLength>
+                <waveLength n="2.1" k="0.083525">820</waveLength>
+                <waveLength n="2.1" k="0.081551">840</waveLength>
+                <waveLength n="2.1" k="0.001649">860</waveLength>
+                <waveLength n="2.1" k="0.001688">880</waveLength>
+                <waveLength n="2.1" k="0.000007">900</waveLength>
             </refractive_index>
         </Optical>
         <Edge>.01</Edge>
@@ -138,33 +138,33 @@
             <A>0</A>
             <B>0</B>
             <refractive_index wavelength_unit="nm">
-                <waveLength n="1.9" k="1.991426">350</waveLength>
-                <waveLength n="1.9" k="2.145409">400</waveLength>
-                <waveLength n="1.9" k="1.971930">420</waveLength>
-                <waveLength n="1.9" k="1.088938">440</waveLength>
-                <waveLength n="1.9" k="0.695507">460</waveLength>
-                <waveLength n="1.9" k="0.515662">480</waveLength>
-                <waveLength n="1.9" k="0.425739">500</waveLength>
-                <waveLength n="1.9" k="0.358353">520</waveLength>
-                <waveLength n="1.9" k="0.320570">540</waveLength>
-                <waveLength n="1.9" k="0.285651">560</waveLength>
-                <waveLength n="1.9" k="0.251083">580</waveLength>
-                <waveLength n="1.9" k="0.227273">600</waveLength>
-                <waveLength n="1.9" k="0.211167">620</waveLength>
-                <waveLength n="1.9" k="0.187421">640</waveLength>
-                <waveLength n="1.9" k="0.173320">660</waveLength>
-                <waveLength n="1.9" k="0.157468">680</waveLength>
-                <waveLength n="1.9" k="0.152630">700</waveLength>
-                <waveLength n="1.9" k="0.118029">720</waveLength>
-                <waveLength n="1.9" k="0.105408">740</waveLength>
-                <waveLength n="1.9" k="0.097371">760</waveLength>
-                <waveLength n="1.9" k="0.088761">780</waveLength>
-                <waveLength n="1.9" k="0.084670">800</waveLength>
-                <waveLength n="1.9" k="0.083525">820</waveLength>
-                <waveLength n="1.9" k="0.081551">840</waveLength>
-                <waveLength n="1.9" k="0.001649">860</waveLength>
-                <waveLength n="1.9" k="0.001688">880</waveLength>
-                <waveLength n="1.9" k="0.000007">900</waveLength>
+                <waveLength n="2.1" k="2.191426">350</waveLength>
+                <waveLength n="2.1" k="2.145409">400</waveLength>
+                <waveLength n="2.1" k="2.171930">420</waveLength>
+                <waveLength n="2.1" k="1.088938">440</waveLength>
+                <waveLength n="2.1" k="0.695507">460</waveLength>
+                <waveLength n="2.1" k="0.515662">480</waveLength>
+                <waveLength n="2.1" k="0.425739">500</waveLength>
+                <waveLength n="2.1" k="0.358353">520</waveLength>
+                <waveLength n="2.1" k="0.320570">540</waveLength>
+                <waveLength n="2.1" k="0.285651">560</waveLength>
+                <waveLength n="2.1" k="0.251083">580</waveLength>
+                <waveLength n="2.1" k="0.227273">600</waveLength>
+                <waveLength n="2.1" k="0.211167">620</waveLength>
+                <waveLength n="2.1" k="0.187421">640</waveLength>
+                <waveLength n="2.1" k="0.173320">660</waveLength>
+                <waveLength n="2.1" k="0.157468">680</waveLength>
+                <waveLength n="2.1" k="0.152630">700</waveLength>
+                <waveLength n="2.1" k="0.118029">720</waveLength>
+                <waveLength n="2.1" k="0.105408">740</waveLength>
+                <waveLength n="2.1" k="0.097371">760</waveLength>
+                <waveLength n="2.1" k="0.088761">780</waveLength>
+                <waveLength n="2.1" k="0.084670">800</waveLength>
+                <waveLength n="2.1" k="0.083525">820</waveLength>
+                <waveLength n="2.1" k="0.081551">840</waveLength>
+                <waveLength n="2.1" k="0.001649">860</waveLength>
+                <waveLength n="2.1" k="0.001688">880</waveLength>
+                <waveLength n="2.1" k="0.000007">900</waveLength>
             </refractive_index>
         </Optical>
         <Edge>.01</Edge>
@@ -198,33 +198,33 @@
             <A>0</A>
             <B>0</B>
             <refractive_index wavelength_unit="nm">
-                <waveLength n="1.9" k="1.991426">350</waveLength>
-                <waveLength n="1.9" k="2.145409">400</waveLength>
-                <waveLength n="1.9" k="1.971930">420</waveLength>
-                <waveLength n="1.9" k="1.088938">440</waveLength>
-                <waveLength n="1.9" k="0.695507">460</waveLength>
-                <waveLength n="1.9" k="0.515662">480</waveLength>
-                <waveLength n="1.9" k="0.425739">500</waveLength>
-                <waveLength n="1.9" k="0.358353">520</waveLength>
-                <waveLength n="1.9" k="0.320570">540</waveLength>
-                <waveLength n="1.9" k="0.285651">560</waveLength>
-                <waveLength n="1.9" k="0.251083">580</waveLength>
-                <waveLength n="1.9" k="0.227273">600</waveLength>
-                <waveLength n="1.9" k="0.211167">620</waveLength>
-                <waveLength n="1.9" k="0.187421">640</waveLength>
-                <waveLength n="1.9" k="0.173320">660</waveLength>
-                <waveLength n="1.9" k="0.157468">680</waveLength>
-                <waveLength n="1.9" k="0.152630">700</waveLength>
-                <waveLength n="1.9" k="0.118029">720</waveLength>
-                <waveLength n="1.9" k="0.105408">740</waveLength>
-                <waveLength n="1.9" k="0.097371">760</waveLength>
-                <waveLength n="1.9" k="0.088761">780</waveLength>
-                <waveLength n="1.9" k="0.084670">800</waveLength>
-                <waveLength n="1.9" k="0.083525">820</waveLength>
-                <waveLength n="1.9" k="0.081551">840</waveLength>
-                <waveLength n="1.9" k="0.001649">860</waveLength>
-                <waveLength n="1.9" k="0.001688">880</waveLength>
-                <waveLength n="1.9" k="0.000007">900</waveLength>
+                <waveLength n="2.1" k="2.191426">350</waveLength>
+                <waveLength n="2.1" k="2.145409">400</waveLength>
+                <waveLength n="2.1" k="2.171930">420</waveLength>
+                <waveLength n="2.1" k="1.088938">440</waveLength>
+                <waveLength n="2.1" k="0.695507">460</waveLength>
+                <waveLength n="2.1" k="0.515662">480</waveLength>
+                <waveLength n="2.1" k="0.425739">500</waveLength>
+                <waveLength n="2.1" k="0.358353">520</waveLength>
+                <waveLength n="2.1" k="0.320570">540</waveLength>
+                <waveLength n="2.1" k="0.285651">560</waveLength>
+                <waveLength n="2.1" k="0.251083">580</waveLength>
+                <waveLength n="2.1" k="0.227273">600</waveLength>
+                <waveLength n="2.1" k="0.211167">620</waveLength>
+                <waveLength n="2.1" k="0.187421">640</waveLength>
+                <waveLength n="2.1" k="0.173320">660</waveLength>
+                <waveLength n="2.1" k="0.157468">680</waveLength>
+                <waveLength n="2.1" k="0.152630">700</waveLength>
+                <waveLength n="2.1" k="0.118029">720</waveLength>
+                <waveLength n="2.1" k="0.105408">740</waveLength>
+                <waveLength n="2.1" k="0.097371">760</waveLength>
+                <waveLength n="2.1" k="0.088761">780</waveLength>
+                <waveLength n="2.1" k="0.084670">800</waveLength>
+                <waveLength n="2.1" k="0.083525">820</waveLength>
+                <waveLength n="2.1" k="0.081551">840</waveLength>
+                <waveLength n="2.1" k="0.001649">860</waveLength>
+                <waveLength n="2.1" k="0.001688">880</waveLength>
+                <waveLength n="2.1" k="0.000007">900</waveLength>
             </refractive_index>
         </Optical>
         <Edge>1</Edge>
